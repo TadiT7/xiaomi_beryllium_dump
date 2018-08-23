@@ -1,0 +1,7 @@
+persist.sys.timezone=Oceania/Saipan
+ro.product.locale.language=en
+ro.product.locale.region=MP
+ro.miui.region=MP
+ro.miui.mcc=9310
+ro.miui.mnc=9999
+ro.miui.cust_variant=mp

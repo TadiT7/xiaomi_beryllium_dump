@@ -1,0 +1,7 @@
+persist.sys.timezone=Pacific/Apia
+ro.product.locale.language=en
+ro.product.locale.region=WS
+ro.miui.region=WS
+ro.miui.mcc=9549
+ro.miui.mnc=9999
+ro.miui.cust_variant=ws

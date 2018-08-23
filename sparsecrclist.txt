@@ -1,0 +1,4 @@
+SPARSECRC-LIST
+cust 0x4a4a7ef0 2
+system 0xec35f392 6
+vendor 0x3a271ffe 2

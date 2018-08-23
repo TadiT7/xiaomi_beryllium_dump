@@ -1,0 +1,7 @@
+persist.sys.timezone=Europe/Skopje
+ro.product.locale.language=en
+ro.product.locale.region=MK
+ro.miui.region=MK
+ro.miui.mcc=9294
+ro.miui.mnc=9999
+ro.miui.cust_variant=mk

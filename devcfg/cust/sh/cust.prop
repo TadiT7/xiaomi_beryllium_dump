@@ -1,0 +1,7 @@
+persist.sys.timezone=Atlantic/St_Helena
+ro.product.locale.language=en
+ro.product.locale.region=SH
+ro.miui.region=SH
+ro.miui.mcc=9658
+ro.miui.mnc=9999
+ro.miui.cust_variant=sh

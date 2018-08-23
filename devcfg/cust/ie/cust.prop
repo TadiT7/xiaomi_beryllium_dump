@@ -1,0 +1,7 @@
+persist.sys.timezone=Europe/Dublin
+ro.product.locale.language=en
+ro.product.locale.region=IE
+ro.miui.region=IE
+ro.miui.mcc=9272
+ro.miui.mnc=9999
+ro.miui.cust_variant=ie
