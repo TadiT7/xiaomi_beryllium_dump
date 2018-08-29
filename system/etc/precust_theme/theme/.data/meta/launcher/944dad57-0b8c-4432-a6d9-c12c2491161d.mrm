@@ -1,0 +1,60 @@
+{
+  "localId": "944dad57-0b8c-4432-a6d9-c12c2491161d",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "9e6da44e3715eaf9cb78b09b07896c6b2781f7e0",
+  "platform": 6,
+  "size": 17152,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "MIUI"
+  },
+  "designers": {
+    "fallback": "MIUI"
+  },
+  "titles": {
+    "zh_TW": "經典",
+    "en_US": "Classic",
+    "zh_CN": "经典"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg"
+    ],
+    "fallback": [
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg"
+    ],
+    "fallback": [
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "cfd320b2-e40f-42b1-91db-1ca8e9394352",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": "18:9"
+}
