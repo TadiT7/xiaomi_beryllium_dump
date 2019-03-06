@@ -1,0 +1,50 @@
+{
+  "localId": "98b47ec6-f335-4b73-9a43-7261a64b2b4f",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "a706c340e9b38b5c8b32dd0253a53db1a4ff90db",
+  "platform": 8,
+  "size": 72330,
+  "updatedTime": 0,
+  "version": "1.2",
+  "authors": {
+    "fallback": "MIUI"
+  },
+  "designers": {
+    "fallback": "MIUI"
+  },
+  "titles": {
+    "fallback": "POCO"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "84ad7585-2855-494c-aa45-2e783dbe8b39",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": "18:9"
+}
